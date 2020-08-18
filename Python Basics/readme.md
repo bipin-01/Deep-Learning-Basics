@@ -1,0 +1,1 @@
+This folder contains the basic python knowledge that will comes in handy in the deep learning session.
